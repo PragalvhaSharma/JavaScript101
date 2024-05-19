@@ -1,0 +1,3 @@
+const names = ["Youtube", "facebook", "Instagram", "Netflix", "Amazon"]
+
+for(const )

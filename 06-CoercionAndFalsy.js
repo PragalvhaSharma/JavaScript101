@@ -1,6 +1,6 @@
 var user = null; //Considered false with false
 
-var number = 2;
+var number = "two";
 
 if(number){
     console.log("Condition is null")
@@ -10,6 +10,7 @@ if(number){
 if(2 == number){
     console.log("Condition is null")
 }
+
 //Triple equals considers type of variable
 if(2 === number){
     console.log("Condition is null")
